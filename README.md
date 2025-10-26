@@ -13,7 +13,7 @@ A simple TensorFlow/Keras project that trains a neural network on the MNIST data
 ### Clone or Download the Project
 
 ```bash
-git clone (https://github.com/manasmannu/AI-Handwritten-Digit-Recognition)
+git clone https://github.com/manasmannu/AI-Handwritten-Digit-Recognition
 cd <folder_name>
 ```
 
