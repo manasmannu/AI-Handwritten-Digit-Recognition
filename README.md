@@ -7,26 +7,6 @@ A simple TensorFlow/Keras project that trains a neural network on the MNIST data
 ![Keras](https://img.shields.io/badge/Library-Keras-red)
 ![Matplotlib](https://img.shields.io/badge/Visualization-Matplotlib-yellow)
 ![MNIST](https://img.shields.io/badge/Dataset-MNIST-purple)
-⸻
-
-### Demo Screenshot
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/7b2abe18-84fd-413e-9c07-cdde964b9260" 
-       alt="Pop-up Demo" width="65%">
-</p>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/9b54e16a-0105-4b2d-a12a-76484261f757" 
-       alt="Pop-up Demo" width="65%">
-</p>
-
-You can upload more "png" format images here to test the model
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/8b82929d-7acd-4efe-93ae-b75850a75491" 
-       alt="Digits Folder" width="45%">
-</p>
 
 ### Setup Instructions
 
@@ -88,16 +68,10 @@ python main.py
 
 ### Directory Structure
 
-AI_Mini_Project-main/
-│
-├── main.py # Main script (training + prediction)
-├── handwritten.keras # Saved model file
-├── digits/ # Folder containing digit images
-│ ├── digit1.png
-│ ├── digit2.png
-│ └── ...
-├── requirements.txt
-└── README.md
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/b0475bb0-c22a-483a-b036-b2e3975bdaf6" 
+       alt="Directory" width="45%">
+</p>
 
 ### Example Output
 
@@ -107,6 +81,25 @@ digit1.png → 3 (confidence: 98.12%)
 digit2.png → 8 (confidence: 94.77%)
 
 Each image will also be displayed in a pop-up window with its predicted label.
+
+### Demo Screenshot
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7b2abe18-84fd-413e-9c07-cdde964b9260" 
+       alt="Pop-up Demo" width="65%">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9b54e16a-0105-4b2d-a12a-76484261f757" 
+       alt="Pop-up Demo" width="65%">
+</p>
+
+You can upload more "png" format images here to test the model
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8b82929d-7acd-4efe-93ae-b75850a75491" 
+       alt="Digits Folder" width="45%">
+</p>
 
 ### Common Issues
 
