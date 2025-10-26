@@ -1,0 +1,6 @@
+# Virtual environment
+venv/
+
+# Model and data artifacts
+handwritten.keras
+handwritten.model/
